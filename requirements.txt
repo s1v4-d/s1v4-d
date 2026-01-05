@@ -1,0 +1,2 @@
+# Dependencies for update_readme.py
+httpx>=0.25.0
