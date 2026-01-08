@@ -8,7 +8,7 @@ AI Engineer building RAG systems, agentic AI pipelines, and cloud infrastructure
 | Repository | PR | Status |
 |------------|----|----|
 | [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) | [feat(scale-up): add runner count caching t...](https://github.com/github-aws-runners/terraform-aws-github-runner/pull/4983) | 🟡 Open |
-| [docling-project/docling-core](https://github.com/docling-project/docling-core) | [feat(DocItem): Add comments field for link...](https://github.com/docling-project/docling-core/pull/465) | 🟡 Open |
+| [docling-project/docling-core](https://github.com/docling-project/docling-core) | [feat(DocItem): Add comments field for link...](https://github.com/docling-project/docling-core/pull/465) | 🟢 Merged |
 | [terraform-aws-modules/terraform-aws-cloudfront](https://github.com/terraform-aws-modules/terraform-aws-cloudfront) | [feat: Add `response_headers_policy_key` to...](https://github.com/terraform-aws-modules/terraform-aws-cloudfront/pull/191) | 🟢 Merged |
 | [terraform-aws-modules/terraform-aws-cloudfront](https://github.com/terraform-aws-modules/terraform-aws-cloudfront) | [docs: Document `origin_access_control` to ...](https://github.com/terraform-aws-modules/terraform-aws-cloudfront/pull/190) | 🟢 Merged |
 | [docling-project/docling](https://github.com/docling-project/docling) | [feat: add support for Word document commen...](https://github.com/docling-project/docling/pull/2834) | 🟡 Open |
