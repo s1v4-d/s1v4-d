@@ -9,7 +9,7 @@ AI Engineer building RAG systems, agentic AI pipelines, and cloud infrastructure
 |------------|----|----|
 | [google/mcp-security](https://github.com/google/mcp-security) | [feat(secops-soar): improve error message a...](https://github.com/google/mcp-security/pull/238) | 🟡 Open |
 | [open-telemetry/opentelemetry-ecosystem-explorer](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer) | [feat(explorer): group instrumentations by ...](https://github.com/open-telemetry/opentelemetry-ecosystem-explorer/pull/105) | 🟢 Merged |
-| [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) | [feat(scale-up): add runner count caching t...](https://github.com/github-aws-runners/terraform-aws-github-runner/pull/4983) | 🔴 Closed |
+| [github-aws-runners/terraform-aws-github-runner](https://github.com/github-aws-runners/terraform-aws-github-runner) | [feat(scale-up): add runner count caching t...](https://github.com/github-aws-runners/terraform-aws-github-runner/pull/4983) | 🟡 Open |
 | [docling-project/docling-core](https://github.com/docling-project/docling-core) | [feat(DocItem): Add comments field for link...](https://github.com/docling-project/docling-core/pull/465) | 🟢 Merged |
 | [terraform-aws-modules/terraform-aws-cloudfront](https://github.com/terraform-aws-modules/terraform-aws-cloudfront) | [feat: Add `response_headers_policy_key` to...](https://github.com/terraform-aws-modules/terraform-aws-cloudfront/pull/191) | 🟢 Merged |
 | [terraform-aws-modules/terraform-aws-cloudfront](https://github.com/terraform-aws-modules/terraform-aws-cloudfront) | [docs: Document `origin_access_control` to ...](https://github.com/terraform-aws-modules/terraform-aws-cloudfront/pull/190) | 🟢 Merged |
